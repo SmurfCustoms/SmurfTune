@@ -25,9 +25,8 @@ This is a handling.meta generator for FiveM addons and story-mode replaces. GTA 
 3. Display units (km/h ↔ mph) never change the meta. Speed in the file is always GTA m/s.
 
 ### `handling.meta` - File Locations
-| Type | Path | |---|---| 
-| **Vanilla / Replace** | `mods/update/update.rpf/common/data/handling.meta` | 
-| **Add-on Vehicles** | `mods/update/x64/dlcpacks/DLCPACKNAME/data/handling.meta` | 
+Vanilla / Replace  ›  mods/update/update.rpf/common/data/handling.meta
+Add-on Vehicles    ›  mods/update/x64/dlcpacks/DLCPACKNAME/data/handling.meta
 
 ---
 
