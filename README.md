@@ -18,6 +18,17 @@ This is a handling.meta generator for FiveM addons and story-mode replaces. GTA 
 
 ---
 
+## How to drop this in GTA V
+
+1. **Addon / FiveM:** put the file at `data/handling.meta` and make sure `handlingName` matches the vehicle spawn name.
+2. **Replace an existing car:** paste the `<Item>` over that vehicle's block in `handling.meta` - keep the original `handlingName` if you are swapping a vanilla slot.
+3. Display units (km/h ↔ mph) never change the meta. Speed in the file is always GTA m/s.
+
+**`handling.meta` Single-Player location:**
+> `mods/update/update.rpf/common/data`
+
+---
+
 ## Support
 
 - Website: [smurfcustoms.co.uk](https://smurfcustoms.co.uk)  
