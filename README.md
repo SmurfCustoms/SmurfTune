@@ -27,4 +27,4 @@ This is a handling.meta generator for FiveM addons and story-mode replaces. GTA 
 ---
 
 © 2026 Smurf Customs - All rights reserved.  
-Number Plate Creator is proprietary software. Redistribution, modification, or reverse engineering is not permitted.
+SmurfTune is proprietary software. Redistribution, modification, or reverse engineering is not permitted.
