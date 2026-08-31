@@ -24,7 +24,7 @@ This is a handling.meta generator for FiveM addons and story-mode replaces. GTA 
 2. **Replace an existing car:** paste the `<Item>` over that vehicle's block in `handling.meta` - keep the original `handlingName` if you are swapping a vanilla slot.
 3. Display units (km/h ↔ mph) never change the meta. Speed in the file is always GTA m/s.
 
-### `handling.meta` - File Locations
+#### `handling.meta` - File Locations
 
 | Vehicle Type | File Location |
 |---|---|
